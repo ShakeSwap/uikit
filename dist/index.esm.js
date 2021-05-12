@@ -2253,7 +2253,7 @@ var links = [
     {
         label: "Certik Audit (In-Progress)",
         icon: "ShieldIcon",
-        href: "https://twitter.com/shakeswap/status/1367218225310818308",
+        href: "https://twitter.com/shakeswapshake1/status/1367218225310818308",
         target: "_blank",
     },
     {
@@ -2341,7 +2341,7 @@ var links = [
             },
             {
                 label: "Blog",
-                href: "https://shakeswap.medium.com/",
+                href: "https://shakeswapfinance.medium.com",
             },
         ],
     },
@@ -2353,18 +2353,18 @@ var socials = [
         items: [
             {
                 label: "English",
-                href: "https://t.me/shakeswapchat",
+                href: "https://t.me/shakeswapfinance",
             },
             {
                 label: "Announcements",
-                href: "https://t.me/shakeswap",
+                href: "https://t.me/shakeswapfinance",
             },
         ],
     },
     {
         label: "Twitter",
         icon: "TwitterIcon",
-        href: "https://twitter.com/shakeswap",
+        href: "https://twitter.com/shakeswapshake1",
     },
 ];
 var MENU_HEIGHT = 64;
