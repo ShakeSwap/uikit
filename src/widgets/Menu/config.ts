@@ -31,7 +31,7 @@ export const links = [
   {
     label: "Certik Audit (In-Progress)",
     icon: "ShieldIcon",
-    href: "https://twitter.com/shakeswapshake1/status/1367218225310818308",
+    href: "https://twitter.com/SwapShake/status/1367218225310818308",
     target: "_blank",
   },
   {
@@ -143,7 +143,7 @@ export const socials = [
   {
     label: "Twitter",
     icon: "TwitterIcon",
-    href: "https://twitter.com/shakeswapshake1",
+    href: "https://twitter.com/SwapShake",
   },
 ];
 
